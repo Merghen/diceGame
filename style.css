@@ -1,0 +1,33 @@
+body{
+    background-color: #393E46;
+}
+.general{
+    text-align: center;
+    padding: 5%;
+}
+.divMiddle{
+    padding-left: 30%;
+    padding-right: 30%;
+
+}
+.header{
+    font-family: 'Lobster', cursive;
+    font-size: 8rem;
+    margin-bottom: 5%;
+    color:#4ECCA3;
+}
+.players{
+    margin-bottom: 13%;
+    font-family: 'Indie Flower',cursive;
+    color:#4ECCA3;
+}
+.dive{
+    width: 80%;
+}
+footer{
+    color: white;
+    margin-top: 10%;
+    font-family: 'Indie Flower', cursive;
+    text-align: end;
+    font-size: 0.9rem;
+}
