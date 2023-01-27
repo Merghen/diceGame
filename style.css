@@ -26,8 +26,8 @@ body{
 }
 footer{
     color: white;
-    margin-top: 10%;
+    padding-top: 8%;
     font-family: 'Indie Flower', cursive;
-    text-align: end;
-    font-size: 0.9rem;
+    text-align: center;
+    font-size: 0.8rem;
 }
